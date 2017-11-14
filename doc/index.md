@@ -4,4 +4,4 @@
 Ejemplo de integración continúa para
 
 * Esto es una prueba
-* Esto es una prueba con exito
+* Esto es una prueba con éxito
