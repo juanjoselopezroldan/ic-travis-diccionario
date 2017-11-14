@@ -4,4 +4,4 @@
 Ejemplo de integración continúa para
 
 * Esto es una prueba
-* Ezto ez una pueba
+* Esto es una prueba con exito
